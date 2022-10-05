@@ -86,7 +86,7 @@ To begin using this random password generator, follow the instructions below:
 7. You will then see a random password that fits your set parameters populate into the box
 image
 
-    ![alt text](Develop/images/password.png)
+    ![random password](./images/password.png)
 
 ## Credits
 
