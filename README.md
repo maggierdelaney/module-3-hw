@@ -1,4 +1,4 @@
-# <Module 3 Homework: Password Generator>
+# Module 3 Homework: Password Generator
 
 ## Description
 
@@ -64,41 +64,35 @@ To begin using this random password generator, follow the instructions below:
 1. Click "Generate Password" button
 
 2. You will be prompted to pick a password length between 8 and 128, please type in the desired length
-    ```md
+
     ![password length](./images/length.png)
-    ```
 
 3. You will be prompted to "confirm" if you want lowercase
-    ```md
+
     ![lowercase confirm](./images/lowercase.png)
-    ```
 
 4. You will be prompted to "confirm" if you want uppercase
-    ```md
+
     ![uppercase confirm](./images/uppercase.png)
-    ```
 
 5. You will be prompted to "confirm" if you want numbers
-    ```md
+
     ![numbers confirm](./images/number.png)
-    ```
 
 6. You will be prompted to "confirm" if you want special characters
-    ```md
+
     ![special characters confirm](./images/special.png)
-    ```
 
 7. You will then see a random password that fits your set parameters populate into the box
 image
-    ```md
+
     ![alt text](Develop/images/password.png)
-    ```
 
 ## Credits
 
-W3Schools https://www.w3schools.com
-Javascript.info
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- W3Schools https://www.w3schools.com
+- Javascript.info
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## License
 
